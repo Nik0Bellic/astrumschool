@@ -1,0 +1,5 @@
+environs==9.5.0
+marshmallow==3.19.0
+packaging==23.0
+python-dotenv==0.21.0
+tomli==2.0.1
